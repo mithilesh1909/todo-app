@@ -1,5 +1,4 @@
 This Todo List application is a simple and intuitive web app built using HTML, CSS, and JavaScript. It allows users to organize and manage their tasks efficiently. Users can add new tasks, mark them as complete, and delete them when they’re done. The application features a clean and responsive design, making it easy to use on both desktop and mobile devices.
-
 Features
 Add Tasks: Easily add new tasks to your todo list.
 Mark Tasks as Complete: Check off tasks when they are finished.
